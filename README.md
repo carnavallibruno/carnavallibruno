@@ -11,6 +11,6 @@
 
 ##
 <div align="left">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=brunodev20&layout=compact&langs_count=8&show_icons=true&theme=github_dark&border_color=56A0F6"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodev20&layout=compact&langs_count=8&theme=github_dark&border_color=56A0F6"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=carnavallibruno&layout=compact&langs_count=8&show_icons=true&theme=github_dark&border_color=56A0F6"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carnavallibruno&layout=compact&langs_count=8&theme=github_dark&border_color=56A0F6"/>
 </div>
