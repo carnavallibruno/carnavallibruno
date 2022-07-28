@@ -1,16 +1,16 @@
-### Hi there 👋
+## A little about me
 
-<!--
-**carnavallibruno/carnavallibruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+    <li>👋 Hi, I’m Bruno!</li>
+    <li>💻 I work with Front-End technology</li>
+    <li>✏️ Currently graduating in Information Systems at UNISUL</li>
+    <li>🧠 Always eager to learn</li>
+    <li>🎮 Also a gamer</li>
+    <li>🌎 Florianópolis, Brazil
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div align="left">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=brunodev20&layout=compact&langs_count=8&show_icons=true&theme=github_dark&border_color=56A0F6"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodev20&layout=compact&langs_count=8&theme=github_dark&border_color=56A0F6"/>
+</div>
