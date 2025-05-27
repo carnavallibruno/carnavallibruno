@@ -2,7 +2,7 @@
 
 <ul>
     <li>👋 Hi, I’m Bruno!</li>
-    <li>💻 I work with Front-End technology</li>
+    <li>💻 I work with Front-End & Back-End technology</li>
     <li>✏️ Graduated in Information Systems at UNISUL</li>
     <li>🧠 Always eager to learn</li>
     <li>🎮 Also a gamer</li>
