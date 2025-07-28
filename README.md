@@ -18,7 +18,7 @@
 ##
 <div> 
   <a href="mailto:carnavallibruno@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/bruno-carnavalli-336a2916a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
+  <a href="https://www.linkedin.com/in/bruno-carnavalli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
   <a href="https://www.instagram.com/carnavallibruno/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
   <a href="https://open.spotify.com/user/69jnegpfdswat6ft64pj7u8lg?si=7dad045205894792" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" alt="Spotify"></a>
 </div>
