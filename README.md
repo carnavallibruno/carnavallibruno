@@ -2,7 +2,7 @@
 
 <ul>
     <li>👋 Hi, I’m Bruno!</li>
-    <li>💻 I work with Fullstack technology (React | Next.js | Nest.js | Node.js | TypeScript)</li>
+    <li>💻 I work with Fullstack technology (React.js | Next.js | Nest.js | Node.js | TypeScript)</li>
     <li>✏️ Graduated in Information Systems at UNISUL</li>
     <li>🧠 Always eager to learn</li>
     <li>🎮 Also a gamer</li>
