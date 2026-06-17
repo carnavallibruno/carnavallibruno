@@ -6,7 +6,7 @@
     <li>✏️ Graduated in Information Systems at UNISUL</li>
     <li>🧠 Always eager to learn</li>
     <li>🎮 Also a gamer</li>
-    <li>🌎 Florianópolis, Brazil
+    <li>🌎 São Paulo, Brazil
 </ul>
 
 ##
